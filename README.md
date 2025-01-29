@@ -8,7 +8,7 @@ DATE 30-07-2024 : VERSION 1.0
 
 Mimisha M Menakath, Rubin Peter and Hareesh G
 
-Indian Institute of Technology Palakkad, Kerala, India.
+Naval Physical and Oceanographic Laboratory, Kerala, India.
 
 **Instructions for the execution of codes:**
 
