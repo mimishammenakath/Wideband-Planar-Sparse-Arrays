@@ -31,4 +31,5 @@ Mimisha M Menakath, Mahesh Raveendranatha Panicker, G Hareesh, and Rubin Peter. 
 For BCS and mt-CS functions
 
 Ji, Shihao, Ya Xue, and Lawrence Carin. "Bayesian compressive sensing." IEEE Transactions on signal processing 56.6 (2008): 2346-2356.
+
 Ji, Shihao, David Dunson, and Lawrence Carin. "Multitask compressive sensing." IEEE Transactions on Signal Processing 57.1 (2008): 92-106.
