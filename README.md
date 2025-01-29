@@ -1,4 +1,4 @@
-# Wideband spar planar array designs using compressive sensing.
+# Wideband sparse planar array designs using compressive sensing.
 
 Repository to share scripts and functions for the design and verification of sparse planar arrays for underwater 3D acoustical imaging.
 
